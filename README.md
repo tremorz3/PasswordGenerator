@@ -10,6 +10,6 @@ otherwise, if the file is already present in the chosen directory, it will only 
 ## Setup
 The setup is very simple, just download the src folder, which contains all the packages and classes, open the directory where you saved the files 
 and compile the Main.java from the terminal with the command:
-- 'javac Main.java'
+- `javac Main.java`
 and run it with the command:
-- 'java Main'
+- `java Main`
