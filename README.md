@@ -1,4 +1,4 @@
-## Passward Generator
+## Password Generator
 Hi, i am new to GitHub and i wanted to share this simple project i made to get familiar with object-oriented programming. Feel free to edit or correct it.
 Sorry if I'm not using GitHub correctly <3
 ## Description
