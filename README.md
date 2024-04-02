@@ -1,6 +1,5 @@
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shortpixel.ai%2Fclient%2Fq_glossy%2Cret_img%2Fhttps%3A%2F%2Fwww.coinsmart.com%2Fwp-content%2Fthemes%2Fcoin-wp%2Fassets%2Fimages%2Fpassword-generator%402x.png&f=1&nofb=1&ipt=3ea2a8d04aab5b2b77ede9b8d12551e8c5f977e66ffb53b86009021c8848df13&ipo=images)
 ## Password Generator
-The code generates a GUI where you can create a random password and associate a username/email and information with it. 
-The password can be up to 30 characters long and you can choose from the drop-down menu whether to include special or duplicate characters. 
-After filling in all the text fields you can save the password in a text file with current time and date. 
-By default the text file is called "PasswordList" and if it is the first time you are saving a password, the file will be created automatically, 
-otherwise, if the file is already present in the chosen directory, it will only be overwritten, without losing the other saved passwords
+Simple Java project to get in to object-oriented programming
+## Description
+The code generates a GUI where you can create a random password and associate it with a username/email and additional information. The password can be up to 30 characters long, and you can choose whether to include special characters or allow duplicates from the drop-down menu. After filling in all the required fields, you can save the password to a text file, which includes the current time and date. By default, the text file is named "PasswordList". If it's your first time saving a password, the file will be created automatically. Otherwise, if the file already exists in the chosen directory, it will be overwritten without losing previously saved passwords
